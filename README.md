@@ -22,7 +22,7 @@ Start by forking this repository to your own GitHub account. Click the button be
 
 You'll need a session ID to run the bot. Click the button below to obtain your session ID:
 
-<a href='https://zenitsumd.osc-fr1.scalingo.io' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get your session id-Red?style=for-the-badge&logo=opencv&logoColor=red'/></a>
+<a href='https://zenitsu-md-session-id.onrender.com' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get your session id-Red?style=for-the-badge&logo=opencv&logoColor=red'/></a>
 
 ## 🚀 Deployment Options
 

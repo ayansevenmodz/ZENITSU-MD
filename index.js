@@ -95,40 +95,20 @@ async function start() {
                 }
             } else if (connection === 'open') {
                 if (initialConnection) {
-                    console.log(chalk.green("┏━━━━━━━━━━━━━━
+                    console.log(chalk.green("💙 ZENITSU-MD SESSION IS SUCCESSFULLY💙                                 *💙JOIN MY CHANNEL💙*              https://whatsapp.com/channel/0029Var4gTu9MF8yScUZzP0b.                               *💙BOT REPO💙*                      https://github.com/ayansevenmodz/ZENITSU-MD                                                            *💙MY OWNER💙*                    Wa.me/258871168283                                                   ")); 
+
+
+                    Matrix.sendMessage(Matrix.user.id, { text: `*┏━━━━━━━━━━━━━━
 ┃ZENITSU-MD SESSION IS 
 ┃SUCCESSFULLY
 ┃CONNECTED ✅🔥
-┗━━━━━━━━━━━━━━━
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+┗━━━━━━━━━━━━━━━*
 ❶ || Creator = 𖥘⚡ AYAN SEVEN MODZ ⚡𖥘
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ❷ || https://whatsapp.com/channel/0029Var4gTu9MF8yScUZzP0b
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ❸ || Owner = https://wa.me/258871168283
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ❺ || Bot Repo = https://github.com/ayansevenmodz/ZENITSU-MD
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ❻ || YouTube = https://www.youtube.com/@Ayanseven 
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-©2024-2099 AYAN SEVEN MODZ_"));
-                    Matrix.sendMessage(Matrix.user.id, { text: `┏━━━━━━━━━━━━━━
-┃ZENITSU-MD SESSION IS 
-┃SUCCESSFULLY
-┃CONNECTED ✅🔥
-┗━━━━━━━━━━━━━━━
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❶ || Creator = 𖥘⚡ AYAN SEVEN MODZ ⚡𖥘
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❷ || https://whatsapp.com/channel/0029Var4gTu9MF8yScUZzP0b
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❸ || Owner = https://wa.me/258871168283
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❺ || Bot Repo = https://github.com/ayansevenmodz/ZENITSU-MD
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❻ || YouTube = https://www.youtube.com/@Ayanseven 
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-©2024-2099 AYAN SEVEN MODZ_` });
+©2024-2099 *AYAN SEVEN MODZ*   ` });
                     initialConnection = false;
                 } else {
                     console.log(chalk.blue("♻️ Connection reestablished after restart."));

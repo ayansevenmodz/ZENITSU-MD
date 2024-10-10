@@ -3,18 +3,18 @@
 # ZENITSU-MD
 
 <p align="center">
-  <a href="https://github.com/Ethix-Xsid"><img src="http://readme-typing-svg.herokuapp.com?color=red&center=true&vCenter=true&multiline=false&lines=Ethix-MD-+v2+MultiDevice;Developed+by+Ethix~Xsid;Give+star+and+forks+this+Repo+🌟" alt="EthixReadme"></a>
+  <a href="https://github.com/AYANSEVENMODZ"><img src="http://readme-typing-svg.herokuapp.com?color=red&center=true&vCenter=true&multiline=false&lines=Zenitsu-MD+MultiDevice;Developed+by+AYANSEVENMODZ;Give+star+and+forks+this+Repo+🌟" alt="ZenitsuReadme"></a>
 </p>
 
 ## 🚀 Getting Started
 
-To get started with Ethix-MD-V2, follow these steps:
+To get started with ZENITSU-MD, follow these steps:
 
 ### 1. Fork This Repository
 
 Start by forking this repository to your own GitHub account. Click the button below to fork:
 
-<a href='https://github.com/Ethix-Xsid/Ethix-MD-V2/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
+<a href='https://github.com/AYANSEVENMODZ/ZENITSU-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
 
 ### 2. Get Session ID via Pair Code
 
@@ -24,7 +24,7 @@ You'll need a session ID to run the bot. Click the button below to obtain your s
 
 ## 🚀 Deployment Options
 
-You can deploy the Ethix-MD-V2 bot using two methods: **Heroku** or **Termux**. Choose the method that suits you best.
+You can deploy the ZENITSU-MD bot using two methods: **Heroku** or **Termux**. Choose the method that suits you best.
 
 ### Deploy to Heroku
 

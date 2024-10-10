@@ -1,6 +1,8 @@
 ---
 
 # ZENITSU-MD
+![Screenshot_25671006_201757](https://github.com/user-attachments/assets/101f8f73-3c16-4867-8cb6-cb7ff556c8d7)
+
 
 <p align="center">
   <a href="https://github.com/AYANSEVENMODZ"><img src="http://readme-typing-svg.herokuapp.com?color=red&center=true&vCenter=true&multiline=false&lines=Zenitsu-MD+MultiDevice;Developed+by+AYANSEVENMODZ;Give+star+and+forks+this+Repo+🌟" alt="ZenitsuReadme"></a>
